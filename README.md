@@ -8,7 +8,7 @@ In this study, we proposed a novel approach that incorporated a Real2Sim L-TreeG
 
 ## Code
 
-We plan to pulish the code after the ICRA conference due to another ongoing effort that shares the codebase.
+The implementation has been integrated into [PSS](https://github.com/perrydoremi/PlantSegStudio).
 
 ## Data
 
@@ -19,5 +19,23 @@ MIT License
 
 ## Citation
 If you find our work useful in your research, please consider citing: 
-```
+
+```bibtex
+@article{qiu2025joint,
+  title={Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches},
+  author={Qiu, Tian and Du, Ruiming and Cheng, Lailiang and Jiang, Yu},
+  journal={arXiv preprint arXiv:2503.05630},
+  year={2025}
+}
+
+@misc{du2025scalableorganlevel3d,
+    title={Towards Scalable Organ-Level 3D Plant Segmentation: 
+           Bridging the Data-Algorithm-Computing Gap}, 
+    author={Ruiming Du and Guangxun Zhai and Tian Qiu and Yu Jiang},
+    year={2025},
+    eprint={2509.06329},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2509.06329}
+}
 ```
